@@ -1,2 +1,4 @@
 # Hello-World
-Introductory tutorial - Hellow World
+Introductory tutorial - Hello World
+
+Here are some edits.
